@@ -1,3 +1,9 @@
+I'm dedicated to perpetual learning and honing my coding skills. I try to read open source repositories to learn from or contribute to.
+
+I quit my last job as frontend engineer about a year ago and I'm on the lookout for opportunities where I can leverage my expertise and passion for coding.
+
+Currently, I enjoy tackling code challenges on platforms like Codewars to sharpen my problem-solving skills and stay engaged with the community.
+
 ![Codewars](https://www.codewars.com/users/Mat_297/badges/large)
 
 <!--
