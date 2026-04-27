@@ -1,8 +1,10 @@
-I'm dedicated to perpetual learning and honing my coding skills. I try to read open source repositories to learn from or contribute to.
+Frontend engineer with 4+ years of experience. I get excited about good developer experience, accessible interfaces, scalable code, and teamwork. 
 
-I'm on the lookout for opportunities where I can leverage my expertise and passion for coding.
-
-Currently, I enjoy tackling code challenges on platforms like Leetcode to sharpen my problem-solving skills and stay engaged with the community.
+- 🔍 Open to work.
+- 🔭 I’m currently working on "My Sticky Shoes" — a personal Next.js project where I experiment with new technologies.
+- 📚 I'm currently reading: CLRS (Algorithms), Clean Code, CSS: The Definitive Guide.
+- 💬 Ask me about: CSS, ReactJS, NextJS, TypeScript, accessibility, or why CLRS matters for frontend (😄).
+- 🌍 Contributed to open source
 
 <!--
 **Matin297/Matin297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
